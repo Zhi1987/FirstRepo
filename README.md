@@ -1,2 +1,3 @@
 # FirstRepo
-First Repository On Github
+First Repository On Github!
+First commit
